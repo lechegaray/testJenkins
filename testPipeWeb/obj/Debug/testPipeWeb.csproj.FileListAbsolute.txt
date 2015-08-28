@@ -34,5 +34,6 @@ C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\testPipeWeb\bin\S
 C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\testPipeWeb\bin\System.Web.WebPages.xml
 C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\testPipeWeb\bin\System.Web.WebPages.Deployment.xml
 C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\testPipeWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\testPipeWeb\obj\Debug\testPipeWeb.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\testPipeWeb\obj\Debug\App.testPipeWeb.dll
 C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\testPipeWeb\obj\Debug\App.testPipeWeb.pdb

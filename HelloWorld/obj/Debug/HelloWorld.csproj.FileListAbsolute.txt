@@ -1,5 +1,5 @@
-c:\users\user\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-c:\users\user\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-c:\users\user\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-c:\users\user\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-c:\users\user\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
