@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9EEA6A
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testPipeWeb", "testPipeWeb\testPipeWeb.csproj", "{36ED77F8-6B43-4854-949B-A28FEB2D8FCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{96D50730-3A88-4EFB-BCD8-63C43E3B809C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D50730-3A88-4EFB-BCD8-63C43E3B809C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96D50730-3A88-4EFB-BCD8-63C43E3B809C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36ED77F8-6B43-4854-949B-A28FEB2D8FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ED77F8-6B43-4854-949B-A28FEB2D8FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ED77F8-6B43-4854-949B-A28FEB2D8FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ED77F8-6B43-4854-949B-A28FEB2D8FCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
