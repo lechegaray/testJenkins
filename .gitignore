@@ -1,2 +1,2 @@
-HelloWorld/obj/Debug
-HelloWorldTest/obj/Debug
+HelloWorld/obj/*
+HelloWorldTest/obj/*
